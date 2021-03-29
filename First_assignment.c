@@ -1,6 +1,6 @@
 // Name : Sambeg Raj Subedi 
 // Date: 03/05/2021
-// Assignment
+
 
 
 #include <stdio.h>
